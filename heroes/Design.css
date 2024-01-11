@@ -1,0 +1,126 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(Valorant.ttf);
+ 
+}
+
+.dadada{font-size: 2em; padding: 15px; }
+h1 {
+  font-family: myFirstFont;
+  color: #0c1c24;
+    margin-right: 8em;
+ font-size: 2em;
+	
+}
+h2{font-family: myFirstFont; color: #0c1c24;  font-size: 2em; float: left }
+
+body {
+background-image: url('valorant-main.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;  
+
+}
+p{  font-family: myFirstFont;
+text-align:justify;}
+
+.vl {
+
+  border-right: 2px solid blue;
+ width: : 1000px;
+}
+.agents
+{
+  float: right;
+  width: 30px;
+  height: 300px; /* only for demonstration, should be removed */
+  
+  padding: 15px;
+   font-family: myFirstFont;
+     color: #f04954;
+     font-size:300%;
+}
+
+.logo{
+  margin-left: 45em;
+  margin-top: 15em;
+
+}
+.rightpicture{
+
+float: right;
+ text-align: left;
+
+	margin right: 4em;
+
+
+}
+.leftpicture{
+
+float: left;
+margin-left: 3em;
+  padding: 15px;
+ 
+    
+  text-decoration: none;
+
+}
+
+.Phoenix {
+ 
+background-color: #f44336;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: myFirstFont;
+  font-size:300%;" 
+
+  
+}
+
+.Brimstone {
+ 
+
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: myFirstFont;
+    padding: -15px -15px;
+  font-size:300%;" 
+
+  
+}
+
+.square {
+  height: 1250px;
+  width: 1250px;
+  background-color: #dc3d4b;
+  margin:auto;  
+  font-family: myFirstFont; 
+  text-align: center;
+  
+}
+
+section {
+  display: block;
+
+}
+
+.skills{
+float: left;
+
+ 
+    margin-left : 3em;
+  text-decoration: none;}
+.skills2{
+float: left;
+
+ 
+    margin-left : 3em;
+  text-decoration: none;}
+
+hr.new2 {
+  border-top: 1px dashed red;
+}
